@@ -1,8 +1,6 @@
 branches 1
 
-
 stable
-
 
 
 
